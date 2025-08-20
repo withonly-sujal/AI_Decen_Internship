@@ -8,7 +8,7 @@ A Next.js template for building amazing audio experiences! This template provide
 - **Audio Playback**: Built-in audio controls with play/pause functionality
 - **Recording Timer**: Live timer display during recording
 - **Visual Feedback**: Animated recording indicator and controls
-- **Transcription Ready**: API endpoint for voice-to-text conversion
+- **Transcription Ready**: A pre-built API endpoint and structured components ready for easy integration with a speech-to-text service (e.g., OpenAI's Whisper API)
 - **Modern UI**: Beautiful gradient background with glassmorphism effects
 
 ## 🚀 Getting Started
@@ -112,5 +112,9 @@ The recorder uses these default settings:
 - Quality: Browser default
 - Timer: 1-second intervals
 - Auto-stop: User controlled
+
+## 🤝 Contribution
+
+Contributions are welcome! If you have suggestions or find a bug, please open an issue or submit a pull request.
 
 Build amazing audio experiences! 🎵 
